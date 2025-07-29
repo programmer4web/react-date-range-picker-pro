@@ -32,6 +32,14 @@ function App() {
 }
 ```
 
+### CSS Styling
+
+The component styles are automatically injected when you import the component. For **Storybook** or **Server-Side Rendering** setups, you may need to manually import the CSS:
+
+```jsx
+import 'react-date-range-picker-pro/dist/index.css';
+```
+
 ## 📦 Props
 
 | Prop | Type | Default | Description |
