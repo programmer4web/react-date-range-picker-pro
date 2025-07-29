@@ -46,7 +46,21 @@
   },
   "keywords": [
     "react",
-    "date range picker"
+    "date-picker",
+    "date-range-picker",
+    "time-picker",
+    "datetime-picker",
+    "calendar",
+    "react-component",
+    "datepicker",
+    "date-range",
+    "time-range",
+    "presets",
+    "ui-component",
+    "tailwind",
+    "responsive",
+    "customizable",
+    "typescript"
   ],
   "author": "Andrei-Constantin Alexandru",
   "license": "MIT",
