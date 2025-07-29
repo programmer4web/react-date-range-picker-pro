@@ -4,6 +4,7 @@
   "description": "A powerful, customizable React date and time picker component with intelligent presets, interactive calendar, and seamless integration capabilities.",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
+  "types": "dist/index.d.ts",
   "style": "dist/index.css",
   "files": [
     "dist"
@@ -57,5 +58,9 @@
     "url": "https://github.com/programmer4web/react-date-range-picker-pro/issues"
   },
   "homepage": "https://github.com/programmer4web/react-date-range-picker-pro#readme",
-  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }

@@ -1,4 +1,4 @@
-# advanced-react-datetime-picker
+# react-date-range-picker-pro
 
 A powerful, customizable React date and time picker component with intelligent presets, interactive calendar, and seamless integration capabilities.
 
@@ -15,7 +15,7 @@ A powerful, customizable React date and time picker component with intelligent p
 ## 🚀 Quick Start
 
 ```jsx
-import AdvancedDateTimeComponent from 'advanced-react-datetime-picker';
+import DateRangePickerPro from 'react-date-range-picker-pro';
 
 function App() {
   const handleDateChange = (data) => {
@@ -23,7 +23,7 @@ function App() {
   };
 
   return (
-    <AdvancedDateTimeComponent
+    <DateRangePickerPro
       onDateRangeChange={handleDateChange}
       showTimeSelector={true}
       enableTimezone={true}
