@@ -37,12 +37,7 @@ module.exports = [
         inject: true
       }),
       
-      // Copy CSS file to dist
-      copy({
-        targets: [
-          { src: 'src/output.css', dest: 'dist', rename: 'index.css' }
-        ]
-      }),
+      // CSS is already compiled by the build:css script before rollup runs
       
       // Resolve node_modules
       resolve({
