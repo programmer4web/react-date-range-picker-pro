@@ -31,9 +31,10 @@ module.exports = [
       // Handle JSON files
       json(),
       
-      // Handle CSS imports - inlines CSS into JS
+      // Handle CSS imports - inject CSS into the bundle
       importCss({
-        minify: true
+        minify: true,
+        inject: true
       }),
       
       // Copy CSS file to dist
