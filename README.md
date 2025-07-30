@@ -2,6 +2,8 @@
 
 A powerful, customizable React date and time picker component with intelligent presets, interactive calendar, and seamless integration capabilities.
 
+📖 **[Full Documentation](https://evaficy.com/react-date-range-picker-pro/)**
+
 ## ✨ Features
 
 - **Smart Presets** - Quick selection buttons (Today, Last 7 days, This month, etc.)
