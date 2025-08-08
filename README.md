@@ -34,6 +34,10 @@ function App() {
 }
 ```
 
+## 💖 Become a Sponsor
+
+This project is fully supported by sponsors! If you find this date range picker useful, please consider [becoming a sponsor](https://github.com/sponsors/programmer4web) to help maintain and improve it.
+
 ### CSS Styling
 
 The component styles are automatically injected when you import the component. For **Storybook** or **Server-Side Rendering** setups, you may need to manually import the CSS:
